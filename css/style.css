@@ -53,3 +53,32 @@ ul,ol{
 
 
 /* ======= Navbar css end ======= */
+
+
+/* ======= Banner css start ======= */
+.banner{
+  background-color: #1C1E53;
+  padding-top: 126px;
+  padding-bottom: 157px;
+}
+.banner h1{
+  color: white;
+  font-size: 54px;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+  width: 582px;
+  line-height: 74px;
+
+}
+
+.banner p{
+  color: white;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+  width: 562px;
+  line-height: 28px;
+  padding-top: 24px;
+  padding-bottom: 48px;
+}
+/* ======= Banner css end ======= */

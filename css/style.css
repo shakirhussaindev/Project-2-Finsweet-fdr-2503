@@ -81,4 +81,45 @@ ul,ol{
   padding-top: 24px;
   padding-bottom: 48px;
 }
+
+.banner .banner-button{
+  color: #1B1C2B;
+  background-color: #FCD980;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: "Manrope", sans-serif;
+  padding: 16px 56px;
+  border-radius: 41px;
+  border: 1px solid transparent;
+  transition: .4s;
+}
+
+.banner-button:hover{
+  background: transparent;
+  border-color: rgba(244, 246, 252,0.20);
+  color: white;
+}
+.banner-button2{
+  color: #ffff;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+  margin-left: 40px;
+  position: relative;
+}
+.banner-button2 i{
+  position: absolute;
+  top: 5px;
+  left: 104px;
+  transition: .4s;
+  opacity: 0;
+  visibility: hidden;
+}
+.banner-button2:hover i{
+  left: 120px;
+  opacity: 1;
+  visibility: visible;
+}
+
+
 /* ======= Banner css end ======= */

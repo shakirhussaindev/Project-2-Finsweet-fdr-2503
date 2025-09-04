@@ -123,3 +123,72 @@ ul,ol{
 
 
 /* ======= Banner css end ======= */
+
+
+/* ======= Work css start ======= */
+.work{
+  padding: 128px 0px;
+  background-color: #F4F6FC;
+}
+
+.work h2{
+  color: #282938;
+  font-size: 48px;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+}
+.work p{
+  color: rgba(40, 41, 56,0.70);
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Poppins", sans-serif;
+  width: 405px;
+  padding: 16px 0px;
+}
+.work a{
+  color: #2405F2;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+}
+.common-ani{
+  position: relative;
+}
+.common-icon{
+  position: absolute;
+  top: 5px;
+  right: -34px;
+  transition: .4s;
+}
+.common-ani:hover .common-icon{
+  right: -54px;
+}
+
+.work-box{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.work-box .item{
+  width: 48%;
+
+}
+.work-box .item h4{
+  color: #282938;
+  font-size: 32px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+  padding-top: 16px;
+  padding-bottom: 8px;
+}
+.work-box .item p{
+  color: rgba(40, 41, 56,0.70);
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Poppins", sans-serif;
+  width: 303px;
+  line-height: 28px;
+  padding: 0px !important;
+}
+/* ======= Work css end ======= */

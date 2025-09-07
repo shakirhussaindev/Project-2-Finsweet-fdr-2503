@@ -238,7 +238,7 @@ ul,ol{
   position: absolute;
   top: 0;
   left: -52%;
-  transition: .4s;
+  transition: .6s;
   padding-top: 312px;
   padding-bottom: 216px;
   padding-left: 48px;
@@ -279,7 +279,7 @@ ul,ol{
   position: absolute;
   top: -100%;
   left: 0%;
-  transition: .4s;
+  transition: .6s;
   padding-top: 129px;
   padding-bottom: 83px;
   padding-left: 56px;
@@ -304,3 +304,104 @@ ul,ol{
 }
 
 /* ======= Project css end ======= */
+
+
+
+/* ======= Features css start ======= */
+
+.Features{
+  background-color: #F4F6FC;
+  width: 100%;
+  height: 1191px;
+  position: relative;
+}
+.Features p{
+  text-align: center;
+  color: #282938;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+  padding-top: 128px;
+}
+.Features h2{
+  color: #282938;
+  font-size: 48px;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+  padding-top: 12px;
+  line-height: 64px;
+  width: 630px;
+  text-align: center;
+  margin: auto;
+}
+.Features .card-item{
+  width: 405px;
+  height: 316px;
+  background-color: #ffff;
+  position: absolute;
+  top: 407px;
+}
+.card-item .icon{
+  position: absolute;
+  top: 58px;
+  left: 48px;
+  font-size: 32px;
+  
+}
+.card-item h4{
+  position: absolute;
+  top: 115px;
+  left: 48px;
+  font-size: 24px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+  
+}
+.Features .card-item p{
+  position: absolute;
+  top: 39px;
+  left: 48px;
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Poppins", sans-serif;
+  color: rgb(40, 41, 56,0.70);
+  text-align: left;
+  
+}
+.Features .card-item2{
+  width: 405px;
+  height: 316px;
+  background-color: #ffff;
+  position: absolute;
+  top: 747px;
+}
+
+.card-item2 .icon{
+  position: absolute;
+  top: 58px;
+  left: 48px;
+  font-size: 32px;
+  
+}
+.card-item2 h4{
+  position: absolute;
+  top: 115px;
+  left: 48px;
+  font-size: 24px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+  
+}
+.Features .card-item2 p{
+  position: absolute;
+  top: 39px;
+  left: 48px;
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Poppins", sans-serif;
+  color: rgb(40, 41, 56,0.70);
+  text-align: left;
+  
+}
+
+/* ======= Features css end ======= */

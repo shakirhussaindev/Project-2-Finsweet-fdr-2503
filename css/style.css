@@ -405,3 +405,63 @@ ul,ol{
 }
 
 /* ======= Features css end ======= */
+
+
+/* ======= Feedback css start ======= */
+.Feedback{
+
+}
+.Feedback h2{
+  color: #282938;
+  font-size: 38px;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+  line-height: 56px;
+  width: 327px;
+  margin-top: 130px;
+  margin-bottom: 16px;
+}
+.Feedback p{
+  color: rgb(40, 41, 56,0.70);
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Poppins", sans-serif;
+  line-height: 28px;
+  width: 327px;
+}
+.Feedback h4{
+  color: #282938;
+  font-size: 32px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+  line-height: 48px;
+  width: 843px;
+  margin-top: 130px;
+  margin-bottom: 48px;
+}
+
+.Feedback .client{
+  position: relative;
+  margin-bottom: 130px;
+}
+
+.Feedback .client .p1{
+  color: #282938;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+  position: absolute;
+  top: 0;
+  left: 70px;
+}
+.Feedback .client .p2{
+  color: #282938;
+  font-size: 12px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+  position: absolute;
+  top: 26px;
+  left: 70px;
+}
+
+/* ======= Feedback css end ======= */

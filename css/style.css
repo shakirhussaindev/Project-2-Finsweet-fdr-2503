@@ -465,3 +465,48 @@ ul,ol{
 }
 
 /* ======= Feedback css end ======= */
+
+
+/* ======= Blog css start ======= */
+.blog{
+  margin-top: 66px;
+  margin-bottom: 190px;
+}
+.blog h3{
+  color: #282938;
+  font-size: 48px;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+  padding-bottom: 64px;
+}
+.blog .p1{
+  color: rgb(40, 41, 56,0.70);
+  font-size: 16px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+  padding-top: 40px;
+}
+.blog h4{
+  color: #282938;
+  font-size: 24px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+  line-height: 36px;
+  width: 405px;
+}
+.blog .p2{
+  color: rgb(40, 41, 56,0.70);
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Poppins", sans-serif;
+  line-height: 28px;
+  padding: 16px 0;
+  width: 405px;
+}
+.blog .common-ani{
+  color: rgb(40, 41, 56);
+  font-size: 16px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+}
+/* ======= Blog css end ======= */

@@ -409,6 +409,9 @@ ul,ol{
 
 /* ======= Feedback css start ======= */
 .Feedback{
+  width: 100%;
+  height: 506px;
+  background-color: rgb(244, 246, 252,0.50);
 
 }
 .Feedback h2{
@@ -465,6 +468,63 @@ ul,ol{
 }
 
 /* ======= Feedback css end ======= */
+
+
+/* ======= Faq css start ======= */
+.faq{
+  padding: 128px 0px;
+}
+.faq h3{
+  color: #282938;
+  font-size: 38px;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+  line-height: 56px;
+  width: 328px;
+  margin-bottom: 16px;
+}
+.faq a{
+  color: rgba(36, 5, 242,0.87);
+  font-size: 18px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+}
+
+.accordion-header{
+  margin: 15px 0px;
+}
+.accordion-button{
+  color: #282938;
+  font-size: 24px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+}
+.accordion-button span{
+  color: #2405F2;
+  margin-right: 59px;
+}
+.accordion-body{
+  margin: 0px 84px;
+}
+.accordion-collapsecollapseshow{
+  border-width: 0px !important;
+}
+.accordion-button{
+  background: transparent !important;
+}
+.accordion-item{
+  border: 1px solid transparent !important;
+}
+.accordion-button::after{
+  background: 0 !important;
+  content: "+";
+}
+.accordion-button:not(.collapsed)::after{
+  background: 0 !important;
+  content: "×";
+  transform: none;
+}
+/* ======= Faq css end ======= */
 
 
 /* ======= Blog css start ======= */

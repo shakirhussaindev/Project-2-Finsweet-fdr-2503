@@ -491,6 +491,11 @@ ol {
 }
 .accordion-body {
   margin: 0px 84px;
+  color: rgba(40, 41, 56,0.87);
+  font-size: 18px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+  line-height: 32px;
 }
 .accordion-collapsecollapseshow {
   border-width: 0px !important;

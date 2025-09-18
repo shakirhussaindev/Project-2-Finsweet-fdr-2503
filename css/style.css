@@ -712,9 +712,7 @@ footer p{
   margin-top: 86px;
   padding-top: 18px;
   padding-left: 37px;
-  padding-bottom: 18px;
 }
-
 .email p:first-child{
   color: #282938;
   font-size: 18px;
@@ -728,19 +726,53 @@ footer p{
   font-weight: 400;
   font-family: "Poppins", sans-serif;
   width: auto;
+  margin-top: -8px;
 }
 .call p:first-child{
   color: #282938;
   font-size: 18px;
   font-weight: 500;
   font-family: "Poppins", sans-serif;
-  padding-left: 29px;
+  padding-left: 50px;
 }
 .call p:last-child{
   color: rgba(40, 41, 56,0.80);
   font-size: 16px;
   font-weight: 400;
   font-family: "Poppins", sans-serif;
-  padding-left: 29px;
+  padding-left: 50px;
+  margin-top: -8px;
+}
+.social h3{
+  color: #ffffff;
+  font-size: 48px;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+  margin-top: 96px;
+}
+.social p{
+  color: rgba(255, 255, 255,0.80);
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Poppins", sans-serif;
+  line-height: 28px;
+  padding-top: 10px;
+  padding-bottom: 25px;
+
+}
+.social-icon{
+  display: flex;
+  gap: 26px;
+}
+.footer-bottom{
+  width: 100%;
+  background-color: white;
+}
+.footer-bottom p{
+  color: #282938;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+  padding: 32px 0;
 }
 /* ======= footer css end ======= */
